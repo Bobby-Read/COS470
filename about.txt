@@ -1,0 +1,6 @@
+Bobby Read, Robert.read@maine.edu
+Mostly Java, R, and Python, but also familiar with C, Lua, Javascript, and HTML/CSS this is my first time using both git and c#
+Topics that interest me: Machine learning, game programming, and data science
+Career goals: I'm graduating this semester so I'm hoping to find a job in software/data science soon
+I'm hoping this class will help me broaden my programming knowledge and better prepare me for a job in software development
+Learning style: I best learn by just doing
